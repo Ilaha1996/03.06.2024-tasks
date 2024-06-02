@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\03.06.2024 tasks\\03.06.2024 task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7620DD2A-CE5A-425B-99A0-DDC3BC44F3FF}|03.06.2024 task2\\03.06.2024 task2.csproj|c:\\users\\user\\desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7620DD2A-CE5A-425B-99A0-DDC3BC44F3FF}|03.06.2024 task2\\03.06.2024 task2.csproj|solutionrelative:03.06.2024 task2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7620DD2A-CE5A-425B-99A0-DDC3BC44F3FF}|03.06.2024 task2\\03.06.2024 task2.csproj|c:\\users\\user\\desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7620DD2A-CE5A-425B-99A0-DDC3BC44F3FF}|03.06.2024 task2\\03.06.2024 task2.csproj|solutionrelative:03.06.2024 task2\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7620DD2A-CE5A-425B-99A0-DDC3BC44F3FF}|03.06.2024 task2\\03.06.2024 task2.csproj|c:\\users\\user\\desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7620DD2A-CE5A-425B-99A0-DDC3BC44F3FF}|03.06.2024 task2\\03.06.2024 task2.csproj|solutionrelative:03.06.2024 task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\Car.cs",
+              "RelativeDocumentMoniker": "03.06.2024 task2\\Car.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\Car.cs",
+              "RelativeToolTip": "03.06.2024 task2\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:29:00.454Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\Types.cs",
+              "RelativeDocumentMoniker": "03.06.2024 task2\\Types.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\Types.cs",
+              "RelativeToolTip": "03.06.2024 task2\\Types.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:38:54.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\Program.cs",
+              "RelativeDocumentMoniker": "03.06.2024 task2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\03.06.2024 tasks\\03.06.2024 task2\\03.06.2024 task2\\Program.cs",
+              "RelativeToolTip": "03.06.2024 task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:28:23.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
